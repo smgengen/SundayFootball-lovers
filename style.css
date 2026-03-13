@@ -1,0 +1,25 @@
+html {
+    background: lightgray;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+header {
+    
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+footer {
+    color: black;
+}
