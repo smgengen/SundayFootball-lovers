@@ -6,6 +6,9 @@ html {
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
+    padding-right: 100px;
+    padding-left: 100px;
+    text-align: justify;
 }
 
 header {
@@ -18,20 +21,21 @@ header {
 header h1 {
     margin: 0;
 }
-
+/* 
 img {
-     display: block;
+    display: block;
     margin: auto;
     width: 50%;
 
-}
+} */
 
 
-ul {
-    list-style: none;
+li {
+    list-style: inside;
     margin: 0;
     padding: 0;
-    display: inline;
+    display: inline-block;
+    text-align: center;
 }
 
 h2 {
