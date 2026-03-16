@@ -29,6 +29,11 @@ img {
 
 } */
 
+img {
+    width: 30%;
+    height: 30%;
+    object-position: top center;
+}
 
 li {
     list-style: inside;
