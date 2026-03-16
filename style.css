@@ -43,6 +43,10 @@ li {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 h2 {
     color: blue;
 }
