@@ -1,0 +1,2 @@
+WWFC — WeekendWarriors FC is a responsive grassroots football training management platform built for Sunday fun lovers. 
+It enables player profile management, training scheduling, performance tracking, and team communication — helping casual football communities stay organized, connected, and game-ready every weekend.
